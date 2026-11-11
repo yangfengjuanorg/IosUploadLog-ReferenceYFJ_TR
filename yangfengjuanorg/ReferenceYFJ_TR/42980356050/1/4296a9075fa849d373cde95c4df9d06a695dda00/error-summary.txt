@@ -1,0 +1,1 @@
+App Store Connect 请求失败：403 Unable to process request - PLA Update available You currently don't have access to this membership resource. To resolve this issue, your team's Account Holder, fengjuan Yang, must agree to the latest Program License Agreement. 
